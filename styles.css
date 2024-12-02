@@ -1,0 +1,33 @@
+boby {
+    background: color #d6060d;
+    color:white
+    font-family:'bai jamjuree', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    heigt: 700px;
+    margin: 0;
+}
+
+button {
+     background-color: #060dd6;
+     color: black;
+     font-family:' bai jamjurre', sans-serif
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+
+main {
+    text-aling: center;
+    max:width 90%;
+
+    
+    img{
+        max-width: 90%;
+    }
